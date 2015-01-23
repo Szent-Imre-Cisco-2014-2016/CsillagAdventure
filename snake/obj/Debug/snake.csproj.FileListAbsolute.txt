@@ -1,0 +1,7 @@
+c:\users\budavári\documents\visual studio 2013\Projects\snake\snake\bin\Debug\snake.exe.config
+c:\users\budavári\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+c:\users\budavári\documents\visual studio 2013\Projects\snake\snake\bin\Debug\snake.exe
+c:\users\budavári\documents\visual studio 2013\Projects\snake\snake\bin\Debug\snake.pdb
+c:\users\budavári\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.exe
+c:\users\budavári\documents\visual studio 2013\Projects\snake\snake\obj\Debug\snake.pdb
+C:\Users\Budavári\Documents\Visual Studio 2013\Projects\snake\snake\bin\Debug\CsillagAdventure.exe.config
